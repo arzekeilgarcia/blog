@@ -21,13 +21,17 @@
 title: Arzekeil Abel Garcia De Leon
 email: arzekeil.abel@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to my blog! My name is Arzekeil-Abel Garcia De Leon
+  and I'm a web developer based in Waterloo, Ontario.
+  I enjoy working on the back end of the website but I'm
+  not afraid to dabble on the front end of a website.
+  Feel free to contact me via any of the social links including
+  LinkedIn. Have a great day!
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://arzekeilgarcia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: arzekeil
+github_username:  arzekeilgarcia
+linkedin_username: arzekeil
 
 # Build settings
 theme: minima
