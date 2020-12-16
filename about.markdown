@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi there! My name is Arzekeil-Abel Garcia De Leon and I'm from Mississauga, Ontario. I currently reside in Waterloo because I'm going to
+Wilfrid Laurier University for Computer Science. I am a self proclaimed Web Developer that enjoys working mostly on the backend of a website.
+This blog is just another way I like to express myself and show my love for software development. I will continute to write in hopes of helping
+other people who are going down the same path as I am.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Feel free to contact me via [email](mailto:arzekil.abel@gmail.com)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+or by [LinkedIn](https://www.linkedin.com/in/arzekeil)
